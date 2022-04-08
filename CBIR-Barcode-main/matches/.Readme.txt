@@ -1,0 +1,2 @@
+This is the matches folder for the mnist prject This file is meant to allow the matches folder to remain empty in order for the program to run
+.
