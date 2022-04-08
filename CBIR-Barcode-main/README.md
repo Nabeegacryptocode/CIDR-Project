@@ -11,7 +11,7 @@ NumPy
 
 
 Comparison of the 2 main methods used in this program
-Comparison of 2 methods (4 projections and 6 projections
+Comparison of 2 methods (4 projections and 6 projections)
 | Method: | 4 Projections | 6 Projections |
 | ---- | ---- | ----|
 | Hit ratio for the images | 61% | 68% |
