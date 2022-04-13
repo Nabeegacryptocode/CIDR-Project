@@ -1,6 +1,5 @@
 import seaborn as sns; sns.set()
 from Barcode_Generator import *
-from heatmapgenerator import *
 import hamming
 import dhash
 from imutils import paths
